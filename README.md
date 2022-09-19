@@ -1,2 +1,7 @@
-# p-adicIntegration
-Sage code for p-adic integration on bad reduction hyperelliptic curves
+Sage code for the examples in https://arxiv.org/abs/2003.03400.
+
+March, 2020
+
+Enis Kaya (joint work with Eric Katz)
+
+e.kaya@rug.nl
